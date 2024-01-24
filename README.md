@@ -1,2 +1,2 @@
-# vision_age-gender
-Study project about computacional vision
+# Alura ONE
+Projetos do curso de desenvolvimento frontend promovidos pela Oracle e Alura.
